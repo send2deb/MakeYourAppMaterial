@@ -1,0 +1,4 @@
+
+<squid:S1214""Move constants to a class or enum.(ô¯²Èùÿÿÿÿ
+Osquid:S2386"5Move "PROJECTION" to a class and lower its visibility(‡ÎÌÑùÿÿÿÿ
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(†Ûý¼øÿÿÿÿ

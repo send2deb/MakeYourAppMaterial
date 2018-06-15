@@ -16,13 +16,17 @@
 -->
 
 <resources>
-
-    <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
-
+    <!-- styles that apply to all versions -->
+    <style name="BaseAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
-    </style>
+
+    <!-- declare the app theme name that's actually applied in the manifest file -->
+    <style name="Theme.Bacon" parent="BaseAppTheme" />
+
 
 </resources>

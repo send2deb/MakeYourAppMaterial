@@ -39,4 +39,6 @@ dependencies {
     compile "com.android.support:cardview-v7:$androidSupportVersion"
     compile 'com.squareup.okhttp3:okhttp:3.1.2'
     compile files('libs/volley.jar')
+    // Add Design support library for Material design
+    compile "com.android.support:design:$androidSupportVersion"
 }

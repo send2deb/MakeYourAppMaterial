@@ -1,0 +1,10 @@
+
+.squid:S2176"Rename this class.(¯ôšÔ8ëÚ¨Õ¿,
+"squid:ClassVariableVisibilityCheck"UMake titleView a static final constant or non-public and provide accessors if needed.(Ó¨½óûÿÿÿÿ8ëÚ¨Õ¿,
+3squid:S2176"Rename this class.(ŽœéÈþÿÿÿÿ8ëÚ¨Õ¿,
+_squid:S3398">Move this method into the anonymous class declared at line 93.(öš¤Îúÿÿÿÿ8ëÚ¨Õ¿,
+‘"squid:ClassVariableVisibilityCheck"YMake thumbnailView a static final constant or non-public and provide accessors if needed.(…™ùéÿÿÿÿÿ8ëÚ¨Õ¿,
+{squid:S00116"YRename this field "START_OF_EPOCH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È®ºûÿÿÿÿÿ8ëÚ¨Õ¿,
+osquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(öÆÊþüÿÿÿÿ8ëÚ¨Õ¿,
+"squid:ClassVariableVisibilityCheck"XMake subtitleView a static final constant or non-public and provide accessors if needed.(þå¼äÿÿÿÿÿ8ëÚ¨Õ¿,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š„˜Õ8ëÚ¨Õ¿,
