@@ -41,4 +41,5 @@ dependencies {
     compile files('libs/volley.jar')
     // Add Design support library for Material design
     compile "com.android.support:design:$androidSupportVersion"
+    compile 'com.squareup.picasso:picasso:2.5.2'
 }
