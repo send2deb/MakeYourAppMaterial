@@ -57,3 +57,5 @@ F
 KXYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java,9/9/99d415e925c058aa33b913ea4f46e4569d7dff23
 {
 KXYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java,1/c/1cedcf3472d222e4e6c7db793d1e50189648bf65
+Y
+)XYZReader/src/main/res/values/strings.xml,1/1/11196285d41bc29a7453786c4fc73b0908e93276
